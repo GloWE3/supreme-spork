@@ -20,7 +20,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.55.0
-	github.com/rubenv/sql-migrate v1.6.1
+	github.com/rubenv/sql-migrate v1.7.0
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.9.0
