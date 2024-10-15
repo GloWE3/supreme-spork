@@ -170,6 +170,6 @@ require (
 
 require (
 	github.com/fatih/color v1.17.0
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
 )
