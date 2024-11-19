@@ -7,7 +7,7 @@ require (
 	github.com/0xPolygonHermez/zkevm-data-streamer v0.2.7
 	github.com/didip/tollbooth/v6 v6.1.2
 	github.com/dop251/goja v0.0.0-20230806174421-c933cf95e127
-	github.com/ethereum/go-ethereum v1.14.11
+	github.com/ethereum/go-ethereum v1.14.12
 	github.com/go-git/go-billy/v5 v5.6.0
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/gobuffalo/packr/v2 v2.8.3
@@ -47,7 +47,6 @@ require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bits-and-blooms/bitset v1.13.0 // indirect
-	github.com/btcsuite/btcd/btcec/v2 v2.3.4 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cloudflare/circl v1.3.7 // indirect
@@ -71,7 +70,6 @@ require (
 	github.com/ethereum/c-kzg-4844 v1.0.0 // indirect
 	github.com/ethereum/go-verkle v0.1.1-0.20240829091221-dffa7562dbe9 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff // indirect
 	github.com/getsentry/sentry-go v0.27.0 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-gorp/gorp/v3 v3.1.0 // indirect
@@ -82,7 +80,7 @@ require (
 	github.com/gobuffalo/packd v1.0.2 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.5-0.20220116011046-fa5810519dcb // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
@@ -138,13 +136,11 @@ require (
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/status-im/keycard-go v0.2.0 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/supranational/blst v0.3.13 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
-	github.com/tyler-smith/go-bip39 v1.1.0 // indirect
 	github.com/umbracle/fastrlp v0.0.0-20220527094140-59d5dd30e722 // indirect
 	github.com/valyala/fastjson v1.4.1 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
